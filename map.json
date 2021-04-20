@@ -657,10 +657,19 @@
                         }]
                 }, 
                 {
+                 "id":176,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":177,
                  "properties":[
                         {
-                         "name":"colldies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -669,7 +678,7 @@
                  "id":178,
                  "properties":[
                         {
-                         "name":"colldies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -678,7 +687,7 @@
                  "id":179,
                  "properties":[
                         {
-                         "name":"colldies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -687,7 +696,7 @@
                  "id":180,
                  "properties":[
                         {
-                         "name":"colldies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -696,7 +705,7 @@
                  "id":181,
                  "properties":[
                         {
-                         "name":"colldies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -705,7 +714,7 @@
                  "id":182,
                  "properties":[
                         {
-                         "name":"colldies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -714,7 +723,7 @@
                  "id":183,
                  "properties":[
                         {
-                         "name":"colldies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -723,7 +732,7 @@
                  "id":184,
                  "properties":[
                         {
-                         "name":"colldies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -732,7 +741,7 @@
                  "id":185,
                  "properties":[
                         {
-                         "name":"colldies",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
