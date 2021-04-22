@@ -87,6 +87,12 @@
          "id":19,
          "name":"iframe-zoom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/invis.io\/WR10T33A5VFS#\/450299529_Beach_Resort"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
