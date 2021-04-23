@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":56,
  "infinite":false,
  "layers":[
@@ -297,6 +290,12 @@
          "id":39,
          "name":"iframe-pavillion",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/forms.gle\/yHuPP2CzrzpcxQYU8"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":59,
@@ -450,7 +449,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -3312,6 +3311,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":59
 }
